@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요! 백엔드 개발자 박주성입니다 🤗
 
 <!--
 **Parkjuseong319/Parkjuseong319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="left">
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wntjd0319)](https://solved.ac/wntjd0319)
+</div>
+<div align="right">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parkjuseong319&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
