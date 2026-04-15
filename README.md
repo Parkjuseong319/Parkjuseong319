@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   </a>
 </p> -->
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=안녕하세요!%20백엔드%20개발자%20박주성입니다%20🤗&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=150&section=header&text=안녕하세요!%20백엔드%20개발자%20박주성입니다%20🤗&fontSize=40)
 
 
 <div>
@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 ### Etc
 - Git, GitHub
   </div>
-  <br/><br>
+  <br/>
 ## 📊 Stats
    <div align="center" style="display: flex; gap: 10px;">
   <a href="https://github.com/Parkjuseong319/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parkjuseong319&layout=compact&hide=html" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parkjuseong319&layout=compact&hide=html&show_icons=true" height="150"/>
   </a>
   <a href="https://solved.ac/wntjd0319">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wntjd0319" height="150"/>
