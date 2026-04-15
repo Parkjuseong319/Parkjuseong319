@@ -24,22 +24,25 @@ Here are some ideas to get you started:
 
 <hr/>
 <div>
-  <div align="center">🛠️ Tech Stack 🛠️</div>
-  <br>
-  <div align="center" style="display: flex; gap: 5px;">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  ## 🛠 Tech Stack
 
+### Backend
+- Java, Spring Boot, Spring Security
 
+### Database
+- MySQL
+
+### Etc
+- Git, GitHub
   </div>
   <br/><br>
-
-  <div align="center" style="display: flex; gap: 5px;">
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parkjuseong319&layout=compact&hide=html)](https://github.com/Parkjuseong319/github-readme-stats)
-
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wntjd0319)](https://solved.ac/wntjd0319)
-
+## 📊 Stats
+   <div align="center" style="display: flex; gap: 10px;">
+  <a href="https://github.com/Parkjuseong319/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parkjuseong319&layout=compact&hide=html" height="150"/>
+  </a>
+  <a href="https://solved.ac/wntjd0319">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wntjd0319" height="150"/>
+  </a>
   </div>
 </div>
