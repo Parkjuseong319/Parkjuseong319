@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 
   <div align="center" style="display: flex; gap: 5px;">
 
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wntjd0319)](https://solved.ac/wntjd0319)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parkjuseong319&layout=compact&hide=html)](https://github.com/Parkjuseong319/github-readme-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parkjuseong319&layout=compact&hide=html)](https://github.com/Parkjuseong319/github-readme-stats)
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wntjd0319)](https://solved.ac/wntjd0319)
 
   </div>
 </div>
