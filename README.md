@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=안녕하세요!%20백엔드%20개발자%20박주성입니다%20🤗&fontSize=40)
 
-<hr/>
+
 <div>
   
   ## 🛠 Tech Stack
